@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: janspale.github.io/sitemap.xml
+Sitemap: https://janspale.github.io/sitemap.xml
