@@ -3,11 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-"""PhD Candidate @ Czech Technical University in Prague, <a href='https://fs.cvut.cz/en/home/'>Faculty of Mechanical Engineering</a>, Department of Energy Engineering
-Researcher @ Czech Technical University in Prague, <a href='https://www.uceeb.cz/en/ing-jan-spale-en'>University Center for Energy Efficient Buildings</a>
-Fulbright Visiting Scholar @ Purdue University, Ray W. Herrick Laboratories,  <a href='https://engineering.purdue.edu/CHPBCenter'>Center for High Performance Buildings</a> 
-mail: <a href='mailto:jan.spale@cvut.cz'>Jan.Spale@cvut.cz</a> and <a href='mailto:jspale@purdue.edu'>jspale@purdue.edu</a>
-social media: <a href='https://www.linkedin.com/in/jan-%C5%A1pale/'>LinkedIn</a>, <a href='https://www.researchgate.net/profile/Jan-Spale'>ResearchGate</a>, <a href='https://github.com/janspale'>GitHub</a>"""
 
 profile:
   align: right
