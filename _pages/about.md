@@ -6,7 +6,7 @@ subtitle: Researcher & PhD Candidate in Energy systems
 
 profile:
   align: right
-  image: 259357001_6946524708698612_2712947733049066027_n.jpg
+  image: 52661435.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
