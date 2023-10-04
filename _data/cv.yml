@@ -4,19 +4,19 @@
     - name: Full Name
       value: Jan Špale
     - name: Date of Birth
-      value: 20th July, 1996
+      value: 20th July 1996
     - name: Languages
       value: English, Czech
 
 - title: Education
   type: time_table
   contents:
-    - title: Ing.
+    - title: Ing
       institution: FME CTU in Prague, Czech Republic
       year: 2021
       description:
         - Summa cum laude
-        - Master Thesis on "Design and cold-air tests of a single-stage axial micro turboexpander for an ORC power system"
+        - Master Thesis on Design and cold-air tests of a single-stage axial micro turboexpander for an ORC power system
 
 - title: Experience
   type: time_table
