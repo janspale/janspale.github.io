@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher & PhD Candidate in Energy systems 
+subtitle:  Researcher & PhD Candidate in Energy systems
 
 profile:
   align: right
