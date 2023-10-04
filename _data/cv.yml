@@ -2,96 +2,54 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jan Špale
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th July, 1996
     - name: Languages
-      value: English, German
+      value: English, Czech
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ing.
+      institution: FME CTU in Prague, Czech Republic
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Summa cum laude
+        - Master Thesis on "Design and cold-air tests of a single-stage axial micro turboexpander for an ORC power system"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher in Energy systems in Buildings
+      institution: CTU UCEEB, Czech Republic
+      year: 2017-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research in waste heat recovery systems, distributed energy systems, combined heat and power and thermal energy storage
+
+    - title: Fulbright Visiting Researcher
+      institution: Purdue University, West Lafayette, Indiana, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Research in the field of high temperature heat pumps
+        - Thermodynamic modelling in Python
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Distributed energy systems for industrial applications
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - CHP systems
+        - Industrial heat pumps
+        - Thermal energy storage
+        - Waste heat recovery
+    - title: Small-scale turbomachinery for distributed energy systems
       items:
-        - Description 1.
-        - Description 2.
+        - Supersonic high speed ORC expanders
+        - Non-ideal compressible fluid flow in turbomachinery
+        - Additive manufacturing for turbomachinery
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> cycling, hiking, reading, playing video games, travelling the world, listening to extreme metal music
