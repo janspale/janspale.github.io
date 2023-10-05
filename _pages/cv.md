@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /bio/
+title: bio
 nav: true
 nav_order: 4
 cv_pdf: CV_JS_fulbright_purdue_v2.pdf

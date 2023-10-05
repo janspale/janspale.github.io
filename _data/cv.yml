@@ -3,15 +3,13 @@
   contents:
     - name: Full Name
       value: Jan Špale
-    - name: Date of Birth
-      value: 20th July 1996
     - name: Languages
-      value: English, Czech
+      value: fluent in Czech, English, intermediate in Russian and Python :-)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ing
+    - title: Ing.
       institution: FME CTU in Prague, Czech Republic
       year: 2021
       description:
@@ -32,7 +30,7 @@
       year: 2023
       description:
         - Research in the field of high temperature heat pumps
-        - Thermodynamic modelling in Python
+        - Thermodynamic modelling in Python in industrial HVAC systems
 
 - title: Academic Interests
   type: nested_list
@@ -49,7 +47,36 @@
         - Non-ideal compressible fluid flow in turbomachinery
         - Additive manufacturing for turbomachinery
 
-- title: Other Interests
-  type: list
+- title: Professional associations and communities
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> cycling, hiking, reading, playing video games, travelling the world, listening to extreme metal music
+    - title: Knowledge Center on Organic Rankine Cycle technology (KCORC)
+      items:
+       - member of the Editorial committee
+    - title: International Energy Agency (IEA) - Energy Storage Technology Collaboration Program
+      items:
+       - Alternate delegate of the Czech Republic in the executive committee
+       - Member of the Task 36 - Carnot Batteries
+    - title: Board of European Students of Technology (BEST) Prague
+      items: 
+        - former President of the local group (2017-2018)
+        - main organizer of Summer Course (2017) on Engineering Psychology
+
+- title: Other Interests
+  type: nested_list
+  contents:
+    - title: Hobbies
+      items: 
+        - cycling (road, XC MTB)
+        - hiking 
+        - reading 
+        - playing video games
+        - travelling the world
+        - photography 
+        - listening to extreme metal music
+    - title: Random trivia
+      items:
+      - huge fan of internet culture and memes
+      - likes dark cynic humor
+      - usually wears black
+      - happily married
