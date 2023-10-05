@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
-## 🚧 projects subpage is currently under construction 🚧
+## 🚧 projects page is currently under construction 🚧
 
 `<!-- pages/projects.md -->`
 
