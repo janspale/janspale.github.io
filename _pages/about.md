@@ -19,11 +19,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi and welcome to my personal website!
+My name is Jan Špale and I am a Researcher in Energy systems for industrial buildings at [University Center for Energy Efficient Buildings](https://www.uceeb.cz/en/ing-jan-spale-en/), CTU in Prague and a PhD Candidate in Energy systems at [Faculty of Mechanical Engineering](https://www.fs.cvut.cz/en/home/), CTU in Prague.
 
-My name is Jan Špale and besides other things, I am a Researcher at [University Center for Energy Efficient Buildings](https://www.uceeb.cz/en/ing-jan-spale-en/), CTU in Prague and a PhD Candidate in Energy systems at [Faculty of Mechanical Engineering](https://www.fs.cvut.cz/en/home/), CTU in Prague.
-
-My research focus is combined heat and power, waste heat recovery, distributed energy systems, industrial process heat supply and high temperature heat pumps. If you are interested in any of that, feel free to check out the [publications](https://janspale.github.io/publications/) subpage and eventually contact me for future collaboration!
+My research focus is combined heat and power, waste heat recovery, distributed energy systems, industrial process heat supply, electrification of heat and high temperature heat pumps. If you are interested in any of that, feel free to check out the [publications](https://janspale.github.io/publications/) subpage and eventually contact me for future collaboration!
 
 Currently a Fulbright Visiting Researcher at Purdue University, [Ray W. Herrick Laboratories](https://engineering.purdue.edu/Herrick), pursuing to develop industrial high temperature heat pumps within the team of Thermal Systems and High Performance Buildings.
 
