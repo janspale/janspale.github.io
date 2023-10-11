@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: This subpage is dedicated to the projects I develop.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

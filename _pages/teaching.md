@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here you will find materials for courses I teach at the Department of Energy Engineering, CTU FME.
+description: Here you will (eventually) find materials for courses I teach at the Department of Energy Engineering, CTU FME.
 nav: true
 nav_order: 4
 ---
@@ -15,5 +15,3 @@ nav_order: 4
 3. **[Advanced Energy Systems (Pokročilé energetické systémy)](https://kos.fs.cvut.cz/synopsis/2151174)** - 2151174
    * room T4:B1-531
    * every summer semester
-
-Materials for classes will be available here when needed.
