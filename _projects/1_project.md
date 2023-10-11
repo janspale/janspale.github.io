@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Small-scale turbomachinery for ORC power systems
+title: Small-scale turbines for ORC power systems
 description: supersonic turbine design and experimental testing for ORC CHP system
 img: assets/img/turbo.png
 importance: 1
-category: work
+category: work&research
 related_publications: Spale20221226,Weiß2020
 ---
 This project page is dedicated to development of a supersonic ORC turbine for a biomass-fired CHP unit.

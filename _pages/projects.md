@@ -2,15 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This subpage is dedicated to the projects I develop.
+description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work&research, fun]
 horizontal: false
 ---
-## 🚧 projects page is currently under construction 🚧
-
-`<!-- pages/projects.md -->`
 
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
