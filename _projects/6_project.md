@@ -6,6 +6,6 @@ img:
 importance: 4
 category: fun
 ---
-https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/ 
+## 🚧 Impossible list is currently under construction 🚧
 
-🚧 Impossible list is currently under construction 🚧
+[https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/)
