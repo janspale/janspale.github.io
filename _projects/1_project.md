@@ -2,14 +2,12 @@
 layout: page
 title: Small-scale turbines for ORC power systems
 description: supersonic turbine design and experimental testing for ORC CHP system
-img:
+img: assets/img/turbo3.png
 importance: 1
 category: work&research
-related_publications: Spale20221226,Weiß2020
+related_publications: Spale20221226,Weiß2020,Mascuch20202882
 ---
-## Motivation
-
-### Organic Rankine cycle
+# Organic Rankine cycle
 
 (ORC) power systems became an unrivalled technical solution and an industrial standard in several applications, such as low temperature heat utilization in geothermal systems, combined heat and power (CHP) systems in the scale of several MWs down to hundreds of kW or waste heat recovery (WHR) power systems down to dozens of kilowatts. ORC systems in small to micro scale domestic CHPs face mainly economical barriers with economy-of-scale and large cost per installed kilowatt in micro scale units. [1,2]
 
@@ -18,7 +16,7 @@ laboratory units and prototypes have been built and tested. Regardless of these 
 
 Another great reason which disfavours small scale ORC power systems is **the lack of reliable, efficient and cost-effective expansion machines.**
 
-### ORC expansion machines
+# ORC expansion machines
 
 For medium and large-scale ORC power systems, a turbine is the state-of-the-art vapour expansion device. For the small to micro scale systems though, volumetric expanders dominate the market. Main reason for that is the possibility to derive the design of a small volumetric expander from an off-the-shelf volumetric compressor, common machine in refrigeration and compressed air technology, connected with low investment costs and reliability. [4]
 
@@ -38,7 +36,11 @@ Turboexpanders for small scale ORC plants are nowadays rather scarce and seldom 
 
 More information about the work-in-progress can be found in [5,6].
 
-## **References**
+# My involvement
+
+We (me and colleagues from [CTU UCEEB](https://www.uceeb.cz/en/decentralized-energy/)) are working long term on development and commercial application of ORC power systems (biomass-fired CHP ORC units). Currently our units are in operation with a [rotary vane expander](https://www.sciencedirect.com/science/article/pii/S036054421931792X), though for increased longevity and reliability and eventually even efficiency, a turbine solution would be favourable. That's why we are developing an original turbine for this dedicated purpose within a [joint research project between CTU in Prague, NTNU Trondheim, SINTEF Energi AS and company GT-Progress s.r.o. with duration between 10/2020 and 04/2024.](https://dexpand.cz/en/) Oh and also it's a topic of my dissertation thesis!
+
+# **References**
 
 [1]        Macchi E, Astolfi M. Organic Rankine Cycle (ORC) Power Systems: Technologies and Applications. Woodhead Publishing; (2016).
 
