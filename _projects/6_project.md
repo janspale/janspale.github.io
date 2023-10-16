@@ -2,7 +2,7 @@
 layout: page
 title: my impossible list
 description: Not a plain ol' bucket list, but an ever evolving dynamic list of my goals
-img: assets/img/
+img: assets/img/impossible.png
 importance: 1
 category: fun
 ---
