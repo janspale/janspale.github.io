@@ -7,6 +7,17 @@ importance: 2
 category: work&research
 giscus_comments: false
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Pilot_CoBra_Digital.png" title="HTHP" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A 3D render of a High temperature heat pump (img courtesy of DLR)
+</div>
+
+
 # **High-Temperature Heat Pumps: Powering the Future**
 
 In an age where _sustainable solutions_ and _energy efficiency_ dominate the global dialogue, there's a game-changer that's quietly revolutionizing the way we think about heating (both space and industrial process): **high-temperature heat pumps**.

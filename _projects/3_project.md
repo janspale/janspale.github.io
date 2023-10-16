@@ -7,7 +7,15 @@ importance: 3
 category: work&research
 related_publications: Basta2022,Novotny2022
 ---
-![1697417100141](image/3_project/1697417100141.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1697417100141.png" title="Carnot Battery1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Carnot battery, concept render, img. source DLR
+</div>
+
 
 # Introduction
 
@@ -23,11 +31,27 @@ Carnot batteries (CB) comprise a set of multiple technologies which have a commo
 
 A general principle of the CB is illustrated below.
 
-    ![Energies 15 00647 g002 550](https://www.mdpi.com/energies/energies-15-00647/article_deploy/html/images/energies-15-00647-g002-550.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/energies-15-00647-g002-550.webp" title="Carnot Battery2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Carnot battery working principle
+</div>
 
 Carnot Batteries use surplus electricity as an input of a power to heat (P2H) system to create a temperature gradient (thermal exergy). It can have a form of hot and cold storage systems, or just one of those (hot or cold) with the temperature gradient defined against the environment. During the discharging process, the thermal exergy is converted back to work (electricity) by heat to power (H2P) system, in principle a heat engine. Various concepts of CB can be illustrated regarding the P2H and H2P conversion processes and thermal integration of the heat source.
 
-    ![Energies 15 00647 g003 550](https://www.mdpi.com/energies/energies-15-00647/article_deploy/html/images/energies-15-00647-g003-550.jpg)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/energies-15-00647-g003-550.webp" title="Carnot Battery3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Carnot battery basic technology concepts
+</div>
+
 
 CB concepts regarding thermal integration of heat sources and conversion systems. ( **a** ) direct heat to power conversion, ( **b** ) reversible thermodynamic cycle, ( **c** ) with heat source integration and hot storage or ( **d** ) cold storage.
 
@@ -36,5 +60,3 @@ CB concepts regarding thermal integration of heat sources and conversion systems
 Together with my colleagues, esp. [Václav N](https://www.linkedin.com/in/v%C3%A1clav-novotn%C3%BD-04a2b26b/)., we are modelling systems for power to heat and heat to power from thermodynamic perspective. We represent the Czech Republic in the [IEA Energy Storage Technology Collaboration Programme](https://iea-es.org/) as country delegates and actively participate in [Task36 Carnot Batteries](https://www.eces-a36.org/) within the TCP. Current step is investigating and evaluating the proficiency of early-stage pilot plants Carnot Batteries in Czech Republic, a district heating CHP plants.
 
 For more information on this subject, you are welcome to read our [co-authored open-access paper](https://www.mdpi.com/1996-1073/15/2/647).
-
-(header img. source DLR, rest authors' collective)
