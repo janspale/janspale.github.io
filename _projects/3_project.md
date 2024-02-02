@@ -60,3 +60,16 @@ CB concepts regarding thermal integration of heat sources and conversion systems
 Together with my colleagues, esp. [Václav N](https://www.linkedin.com/in/v%C3%A1clav-novotn%C3%BD-04a2b26b/)., we are modelling systems for power to heat and heat to power from thermodynamic perspective. We represent the Czech Republic in the [IEA Energy Storage Technology Collaboration Programme](https://iea-es.org/) as country delegates and actively participate in [Task36 Carnot Batteries](https://www.eces-a36.org/) within the TCP. Current step is investigating and evaluating the proficiency of early-stage pilot plants Carnot Batteries in Czech Republic, a district heating CHP plants.
 
 For more information on this subject, you are welcome to read our [co-authored open-access paper](https://www.mdpi.com/1996-1073/15/2/647).
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="assets\pdf\spale_purdue_carnotbattery_seminar.pdf" class="pdf-link" target="_blank">
+            <img src="assets\img\PDF_file_icon.png" alt="PDF" class="img-fluid rounded z-depth-1" style="width: 100px; height: auto;"/>
+            <div class="caption">
+                Click to view PDF
+            </div>
+        </a>
+    </div>
+</div>
+
