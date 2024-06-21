@@ -27,8 +27,7 @@ category: fun
 * ~~live abroad for 1/2 year (2017)~~
 * own my dream car
 * ~~live abroad for 1 year (2023)~~
-* live so well-off I could efford all the camera lenses I want
-* help other students expand their potential and realize their dreams **(always in progress)**
+* live so well-off I could afford all the camera lenses and bikes I want
 
 ## Fitness & Health
 
@@ -42,7 +41,6 @@ category: fun
 * deadlift 175kg
 * benchpress my weight
 * ~~walk 100K/24hrs (2022, [Špacír](www.naspacir.eu))~~
-* walk 100K until sunset starting midnight
 * ~~walk 2mil. steps a year (2018)~~
 * ~~walk 3mil. steps a year (2022)~~
 * walk 4mil. steps a year
@@ -51,9 +49,7 @@ category: fun
 * run half marathon
 * run a marathon
 * ~~race a road bike race (2013)~~
-* place on the podium in a road bike race
 * ~~race a mtb race (2015)~~
-* place on the podium in a mtb race
 * ~~ride a bike for 100K/day (2017)~~
 * ~~ride a bike for 200K/day (2021)~~
 * ~~ride a bike to the Adriatic sea (2023)~~
@@ -73,7 +69,7 @@ category: fun
 * visit Svalbard
 * visit Canada
 * ~~visit Iceland (2018)~~
-* visit Rocky Mountains
+* ~~visit Rocky Mountains~~
 * visit Alaska
 * visit Madagascar
 * visit Lake Victoria and surrounding National parks
@@ -85,15 +81,15 @@ category: fun
 ## Renaissance man
 
 * learn to play bass guitar
+* learn to mix/master music
+* earn a pilot's license
 * learn surfing
-* start playing in a band
 * learn to cut and edit videos
 * learn sailing
 * ~~learn to code (2023, at least I like to think so)~~
 * ~~learn 3 languages B2 (Czech,English,Russian, 2015)~~
-* learn 4th language B1 level (Italian A1)
-* get a motorbike driver's license (currently in progress)
-* learn axe throwing
+* learn 4th language B1 level (German or Italian are the closest ones in 2024)
+* get a motorbike driver's license (in progress)
 
 ## Professionals
 
@@ -101,6 +97,6 @@ category: fun
 * ~~write an article/paper (2018)~~
 * write a book
 * ~~work location independent (2018)~~
-* monetize research outcomes
+* monetize my/our research outcomes
 * make a full time living of that
 * retire the [MrMoneyMoustache style](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) before 40 (does not necessary mean not working by 40)

@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jan Špale
     - name: Languages
-      value: fluent in Czech, English, intermediate in Russian and Python :-)
+      value: fluent in Czech & English, intermediate in Russian & Python :-)
 
 - title: Education
   type: time_table
@@ -27,7 +27,7 @@
 
     - title: Fulbright Visiting Researcher
       institution: Purdue University, West Lafayette, Indiana, USA
-      year: 2023
+      year: 2023-2024
       description:
         - Research in the field of high temperature heat pumps
         - Thermodynamic modelling in Python in industrial HVAC systems
@@ -61,6 +61,9 @@
       items: 
         - former President of the local group (2017-2018)
         - main organizer of Summer Course (2017) on Engineering Psychology
+    - title: Fulbright Commission CZ
+      items:
+        - an active alumnus of the Fulbright program
 
 - title: Other Interests
   type: nested_list
@@ -69,11 +72,11 @@
       items: 
         - cycling (road, XC MTB)
         - hiking 
+        - extreme metal music
         - reading 
         - playing video games
         - travelling the world
         - photography 
-        - listening to extreme metal music
     - title: Random trivia
       items:
       - huge fan of internet culture and memes
