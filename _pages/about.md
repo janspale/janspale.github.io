@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Researcher & PhD Candidate in Energy systems
+subtitle:  Graduate Researcher, Teaching Assistant & PhD Candidate in Energy & Process Engineering
 
 profile:
   align: right
