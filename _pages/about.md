@@ -9,10 +9,10 @@ profile:
   image: 52661435.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Purdue University</p>
-    <p>Ray W. Herrick Laboratories</p>
-    <p>177 S Russel St</p>
-    <p>West Lafayette, IN 47907</p>
+    <p>Czech Technical University in Prague</p>
+    <p>University Center for Energy Efficient Buildings</p>
+    <p>Trinecka 1024</p>
+    <p>Bustehrad, 27343</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,6 +23,6 @@ My name is Jan Špale and I am a Researcher in Energy systems for industrial bui
 
 My research focus is distributed energy systems, high temperature heat pumps, combined heat and power, waste heat recovery and industrial process heat supply. If you are interested in any of that, feel free to check out the [publications](https://janspale.github.io/publications/) subpage or eventually contact me for future collaboration!
 
-Currently a Fulbright Visiting Researcher at Purdue University, [Ray W. Herrick Laboratories](https://engineering.purdue.edu/Herrick), pursuing to develop industrial high temperature heat pumps within the team of Thermal Systems and High Performance Buildings under supervision of [Prof. Davide Ziviani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=164622).
+A Fulbright Alumnus (2023/2024) at Purdue University, [Ray W. Herrick Laboratories](https://engineering.purdue.edu/Herrick), pwhere I pursued to develop industrial high temperature heat pumps within the team of Thermal Systems and High Performance Buildings under supervision of [Prof. Davide Ziviani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=164622).
 
 All the links for social media connections are shared below, just click the icons and it will guide you to other places on the internet I publish content to.
