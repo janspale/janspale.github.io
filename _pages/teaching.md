@@ -9,6 +9,8 @@ nav_order: 4
 1. **[Energy Sources &amp; Conversions (Zdroje a přeměny energie)](https://kos.fs.cvut.cz/synopsis/2151129)** - 2151129
    * room T4:B1-531
    * every winter semester
+   * [cvičení 1 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EUyOf9i6kU1Cirgnhp2WczcBelEmBuTgJwfgCDBKDVJqdg?e=wyOsu1)
+   * cvičení 2 - podklady - bude nahráno daný týden
 2. **[Distributed Energy Systems I. (Decentralizované systémy I.)](https://kos.fs.cvut.cz/synopsis/2151133)** - 2151131
    * room T4:B1-531
    * every summer semester
