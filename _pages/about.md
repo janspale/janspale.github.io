@@ -19,7 +19,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My name is Jan Špale and I am a Researcher in Energy systems for industrial buildings at [University Center for Energy Efficient Buildings](https://www.uceeb.cz/en/ing-jan-spale-en/), CTU in Prague and a PhD Candidate in Energy systems at [Faculty of Mechanical Engineering](https://www.fs.cvut.cz/en/home/), CTU in Prague.
+My name is Jan Špale and I am a Researcher in Industrial Thermal Energy Systems (INTENS) at [University Center for Energy Efficient Buildings](https://www.uceeb.cz/en/intens-en/), CTU in Prague and a PhD Candidate in Energy systems at [Faculty of Mechanical Engineering](https://www.fs.cvut.cz/en/home/), CTU in Prague.
 
 My research focus is distributed energy systems, high temperature heat pumps, combined heat and power, waste heat recovery and industrial process heat supply. If you are interested in any of that, feel free to check out the [publications](https://janspale.github.io/publications/) subpage or eventually contact me for future collaboration!
 
