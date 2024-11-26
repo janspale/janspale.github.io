@@ -25,9 +25,10 @@ category: fun
 * ~~get married to a loved soulmate (cringe, ikr) (2023)~~
 * raise (a) child(ren)
 * ~~live abroad for 1/2 year (2017)~~
-* own my dream car
+* build a house
+* own my dream car (sort of 2024)
 * ~~live abroad for 1 year (2023)~~
-* live so well-off I could afford all the camera lenses and bikes I want
+* live so well-off I could afford all the camera lenses and (motor)bikes I want
 
 ## Fitness & Health
 
@@ -89,11 +90,12 @@ category: fun
 * ~~learn to code (2023, at least I like to think so)~~
 * ~~learn 3 languages B2 (Czech,English,Russian, 2015)~~
 * learn 4th language B1 level (German or Italian are the closest ones in 2024)
-* get a motorbike driver's license (in progress)
+* ~~get a motorbike driver's license (2024)~~
+* learn to ride a horse
 
 ## Professionals
 
-* teach 100 students what I have learnt elsewhere than at alma mater (by 10/2023 approx 80)
+* ~~teach 100 students what I have learnt elsewhere than at alma mater (by 10/2023 approx 80) ~~ (2024)
 * ~~write an article/paper (2018)~~
 * write a book
 * ~~work location independent (2018)~~
