@@ -17,7 +17,9 @@ nav_order: 4
    * [cvičení 6 - podklady](https://campuscvut-my.sharepoint.com/:p:/g/personal/spaleja1_cvut_cz/ETBTq7FqJxlMjQyagYZ1i54BXsG6xShkdH-0ktncf9S0Fw?e=Y20dVZ)
    * [cvičení 7 + 8 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/Eeem7kmDzM9Jg7QnGphpHrQBvmRl2BfjHpjjjQyAS2d4fA?e=rz3D66)
    * [cvičení 9 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EZTdTtMbD7tOswwKu-nUxxQBrWaygqdnkh8VQEJKfqdP_Q?e=03wdzS)
-   * [cviceni 10 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EZLzl4bi32VOlHX3i0u8vioBdoWXe1l-baodOMxofjrOpA?e=BSQCCg)
+   * [cvičení 10 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EZLzl4bi32VOlHX3i0u8vioBdoWXe1l-baodOMxofjrOpA?e=BSQCCg)
+   * [cvičení 12 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EWoYSF2emBVHvKa48wPmxq8BUrXAgNdLQN9LcgB6puixJQ?e=StBIhA)
+
 2. **[Decentralizované systémy I. (Distributed Energy Systems I.)](https://kos.fs.cvut.cz/synopsis/2151133)** - 2151131
    * room T4:B1-531
    * every summer semester
