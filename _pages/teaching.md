@@ -23,10 +23,11 @@ nav_order: 4
 2. **[Decentralizované systémy I. (Distributed Energy Systems I.)](https://kos.fs.cvut.cz/synopsis/2151133)** - 2151131
    * room T4:B1-531
    * every summer semester
+   * [cvičení 1 - podmínky k udělení zápočtu, podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EXmcea-O4X1BsydrJKlW9XQB4R7g0o46xLK9caHMTbdYcg?e=Cda5CF)
 3. **[Pokročilé energetické systémy (Advanced Energy Systems)](https://kos.fs.cvut.cz/synopsis/2151174)** - 2151174
    * room T4:B1-531
    * every summer semester
-4. **[Měření v energetice](https://kos.fs.cvut.cz/synopsis/2152063)
+4. **[Měření v energetice](https://kos.fs.cvut.cz/synopsis/2152063)** - 2152063
    * těžká hala Juliska - vrchní patro
    * každý zimní semestr
-   * laboratorní úloha G - Reverzibilní tepelné čerpadlo
+   * [laboratorní úloha G - Reverzibilní tepelné čerpadlo](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EX1atG4K5UBMtdihamp7g9cBAVIKzbpiJJonEyh1u1ytZw?e=Ed2bBG)
