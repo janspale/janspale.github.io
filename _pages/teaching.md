@@ -27,7 +27,7 @@ nav_order: 4
 3. **[Pokročilé energetické systémy (Advanced Energy Systems)](https://kos.fs.cvut.cz/synopsis/2151174)** - 2151174
    * room T4:B1-531
    * every summer semester
-   * [cvičení 1 - podklady]
+   * [cvičení 1 - podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/Ed_XX3cv8ThJvyCo3UXRSXwBzogufi3qmG-xxwaIs8E84A?e=TJCGLY)
 4. **[Měření v energetice](https://kos.fs.cvut.cz/synopsis/2152063)** - 2152063
    * těžká hala Juliska - vrchní patro
    * každý zimní semestr
