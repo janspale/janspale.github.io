@@ -25,6 +25,7 @@ nav_order: 4
    * every summer semester
    * [cvičení 1 - podmínky k udělení zápočtu, podklady](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/EXmcea-O4X1BsydrJKlW9XQB4R7g0o46xLK9caHMTbdYcg?e=Cda5CF)
    * [přednáška 2 - Tepelné oběhy v decentralizované energetice](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/ET1mifWEAKRFhKy4qWWurwkB8YJlVMNGkXiyj4bFJIk1Dg?e=hy81oN)
+   * [přednáška 4 - Expanzní stroje v decentralizované energetice](https://campuscvut-my.sharepoint.com/:b:/g/personal/spaleja1_cvut_cz/Ecs0kgpWaC1Aor_QnRDS4cwBdAKkW7aIlqX6UGkC5So7zQ?e=GU4NZR)
 3. **[Pokročilé energetické systémy (Advanced Energy Systems)](https://kos.fs.cvut.cz/synopsis/2151174)** - 2151174
    * room T4:B1-531
    * every summer semester
