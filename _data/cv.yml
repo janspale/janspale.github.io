@@ -9,12 +9,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ing.
+    - title: PhD.
       institution: FME CTU in Prague, Czech Republic
-      year: 2021
+      year: 2025
       description:
-        - Summa cum laude
-        - Master Thesis on Design and cold-air tests of a single-stage axial micro turboexpander for an ORC power system
+        - Summa cum laude,
+        - Doctoral studies in Energy & Process Engineering, 
+        - dissertation thesis on [Small-scale vapour expansion machines for distributed energy systems](https://dspace.cvut.cz/handle/10467/121885)
 
 - title: Experience
   type: time_table
@@ -24,6 +25,14 @@
       year: 2017-now
       description:
         - Research in waste heat recovery systems, distributed energy systems, combined heat and power and thermal energy storage
+        - leading a team of Industrial Thermal Energy Systems [(INTENS)](https://www.uceeb.cz/en/intens-en/)
+
+    - title: Assistant Professor, Energy and Process Engineering
+      institution: CTU FME, Czech Republic
+      year: 2025-now
+      description:
+        - Teaching courses in Energy systems, Applied Thermodynamics, Distributed energy systems
+        - Supervision of bachelor and master theses
 
     - title: Fulbright Visiting Researcher
       institution: Purdue University, West Lafayette, Indiana, USA
