@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Graduate Researcher, Teaching Assistant & PhD Candidate in Energy & Process Engineering
+subtitle:  Assistant Professor of Mechanical Engineering & Research Group Leader in Industrial Thermal Energy Systems
 
 profile:
   align: right
