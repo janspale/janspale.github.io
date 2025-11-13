@@ -21,30 +21,30 @@ category: fun
 ## Life goals
 
 * ~~graduate college (summa cum laude in ME, 2020)~~
-* get a PhD
+* ~~get a PhD~~
 * ~~get married to a loved soulmate (cringe, ikr) (2023)~~
 * raise (a) child(ren)
 * ~~live abroad for 1/2 year (2017)~~
 * build a house
 * own my dream car (sort of 2024)
 * ~~live abroad for 1 year (2023)~~
-* live so well-off I could afford all the camera lenses and (motor)bikes I want
+* live so well-off I could afford all the camera lenses and (motor)bikes I want :-)
 
 ## Fitness & Health
 
 * ~~sleep score >75 for 30 consecutive days (2022)~~
-* sleep score >75 for 60 consecutive days
+* ~~sleep score >75 for 60 consecutive days (2024)~~
 * ~~10 chinups (2019)~~
 * 10 pullups (wide)
-* squat 100kg
 * ~~deadlift 100kg (2018)~~
 * ~~deadlift 150kg (2019)~~
-* deadlift 175kg
+* squat my weight
+* deadlift double my weight
 * benchpress my weight
-* ~~walk 100K/24hrs (2022, [Špacír](www.naspacir.eu))~~
+* ~~walk 100K/24hrs (2022)~
 * ~~walk 2mil. steps a year (2018)~~
 * ~~walk 3mil. steps a year (2022)~~
-* walk 4mil. steps a year
+* ~~walk 4mil. steps a year (2024)~~
 * ~~run 10K (top time 46min)~~
 * ~~run 1000km a year (2017-2018)~~
 * run half marathon
@@ -54,8 +54,7 @@ category: fun
 * ~~ride a bike for 100K/day (2017)~~
 * ~~ride a bike for 200K/day (2021)~~
 * ~~ride a bike to the Adriatic sea (2023)~~
-* ride a bike around the Czech Republic borders (120km missing)
-* ride 1000K/week
+* ~~ride a bike around the Czech Republic borders (120km missing) (2025)~~
 * learn to swim well enough to be able to compete in triathlon
 
 ## Travel
@@ -71,7 +70,6 @@ category: fun
 * visit Canada
 * ~~visit Iceland (2018)~~
 * ~~visit Rocky Mountains~~
-* visit Alaska
 * visit Madagascar
 * visit Lake Victoria and surrounding National parks
 * visit New Zealand
@@ -81,7 +79,7 @@ category: fun
 
 ## Renaissance man
 
-* learn to play bass guitar
+* learn to play drums
 * learn to mix/master music
 * earn a pilot's license
 * learn surfing

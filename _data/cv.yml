@@ -15,7 +15,7 @@
       description:
         - Summa cum laude,
         - Doctoral studies in Energy & Process Engineering, 
-        - dissertation thesis on [Small-scale vapour expansion machines for distributed energy systems](https://dspace.cvut.cz/handle/10467/121885)
+        - dissertation thesis on Small-scale vapour expansion machines for distributed energy systems(https://dspace.cvut.cz/handle/10467/121885)
 
 - title: Experience
   type: time_table
@@ -25,7 +25,7 @@
       year: 2017-now
       description:
         - Research in waste heat recovery systems, distributed energy systems, combined heat and power and thermal energy storage
-        - leading a team of Industrial Thermal Energy Systems [(INTENS)](https://www.uceeb.cz/en/intens-en/)
+        - leading a team of Industrial Thermal Energy Systems (INTENS)(https://www.uceeb.cz/en/intens-en/)
 
     - title: Assistant Professor, Energy and Process Engineering
       institution: CTU FME, Czech Republic
@@ -69,26 +69,27 @@
     - title: Board of European Students of Technology (BEST) Prague
       items: 
         - former President of the local group (2017-2018)
-        - main organizer of Summer Course (2017) on Engineering Psychology
     - title: Fulbright Commission CZ
       items:
         - an active alumnus of the Fulbright program
 
-- title: Other Interests
+- title: Other Interests and Trivia
   type: nested_list
   contents:
     - title: Hobbies
       items: 
         - cycling (road, XC MTB)
         - hiking 
-        - extreme metal music
         - reading 
         - playing video games
+        - riding motorcycles
+        - extreme metal music
         - travelling the world
         - photography 
     - title: Random trivia
       items:
       - huge fan of internet culture and memes
       - likes dark cynic humor
-      - usually wears black
-      - happily married
+      - usually wears black clothes
+      - once walked 100 km in 24 hours... and then did it again
+      - failed a single class during entire university studies, turns out to be the one he enjoyed the most and now lectures it :-)

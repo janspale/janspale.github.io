@@ -38,7 +38,7 @@ More information about the work-in-progress can be found in [5,6].
 
 # My involvement
 
-We (me and colleagues from [CTU UCEEB](https://www.uceeb.cz/en/decentralized-energy/)) are working long term on development and commercial application of ORC power systems (biomass-fired CHP ORC units). Currently our units are in operation with a [rotary vane expander](https://www.sciencedirect.com/science/article/pii/S036054421931792X), though for increased longevity and reliability and eventually even efficiency, a turbine solution would be favourable. That's why we are developing an original turbine for this dedicated purpose within a [joint research project between CTU in Prague, NTNU Trondheim, SINTEF Energi AS and company GT-Progress s.r.o. with duration between 10/2020 and 04/2024.](https://dexpand.cz/en/) Oh and also it's a topic of my dissertation thesis!
+We (me and colleagues from [CTU UCEEB](https://www.uceeb.cz/en/decentralized-energy/)) are working long term on development and commercial application of ORC power systems (biomass-fired CHP ORC units). Currently our units are in operation with a [rotary vane expander](https://www.sciencedirect.com/science/article/pii/S036054421931792X), though for increased longevity and reliability and eventually even efficiency, a turbine solution would be favourable. That's why we are developing an original turbine for this dedicated purpose within a [joint research project between CTU in Prague, NTNU Trondheim, SINTEF Energi AS and company GT-Progress s.r.o. with duration between 10/2020 and 04/2024.](https://dexpand.cz/en/) Oh and also it's a topic of my dissertation thesis! (as of now successfully defended in 2025)
 
 # **References**
 

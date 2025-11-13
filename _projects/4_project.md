@@ -17,4 +17,4 @@ Travelling for me does not mean just visiting places or ticking boxes from the b
     An interactive animated map of the places I visited - never been to the South Hemisphere so far!
 </div>
 
-If I feel like (read if I prioritize ever this enough), I may eventually publish some blogposts or pictures from my travels.
+If I feel like it (read if I prioritize this enough), I may eventually publish some blogposts or pictures from my travels.
