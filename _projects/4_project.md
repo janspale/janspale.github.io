@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 Travelling for me does not mean just visiting places or ticking boxes from the bucket list, but understanding people of different cultures, backgrounds and expanding horizons in a pursue to become at least slightly less narrow-minded.
-
+"""
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/myVisitedPlaces.gif" title="My visited places" class="img-fluid rounded z-depth-1" %}
