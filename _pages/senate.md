@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /senate/
-title: Academic Senate
+title: Academic Senate 2026-2028
 subtitle: Candidate for Term 2026-2028 - Other non-faculty candidates (academic staff)
 nav: true
 nav_order: 5

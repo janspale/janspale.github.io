@@ -6,7 +6,7 @@ img: assets/img/52451793614_15552c1bac_k.jpg
 importance: 3
 category: fun
 ---
-Travelling for me does not mean just visiting places or ticking boxes from the bucket list, but understanding people of different cultures, backgrounds and expanding horizons in a pursue to become at least slightly less narrow-minded. :-)
+Travelling for me does not mean just visiting places or ticking boxes from the bucket list, but understanding people of different cultures, backgrounds and expanding horizons in a pursue to become at least slightly less narrow-minded.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
