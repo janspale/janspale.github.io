@@ -41,7 +41,7 @@ category: fun
 * squat my weight
 * deadlift double my weight
 * benchpress my weight
-* ~~walk 100K/24hrs (2022)~
+* ~~walk 100K/24hrs (2022)~~
 * ~~walk 2mil. steps a year (2018)~~
 * ~~walk 3mil. steps a year (2022)~~
 * ~~walk 4mil. steps a year (2024)~~
@@ -56,6 +56,11 @@ category: fun
 * ~~ride a bike to the Adriatic sea (2023)~~
 * ~~ride a bike around the Czech Republic borders (120km missing) (2025)~~
 * learn to swim well enough to be able to compete in triathlon
+* ~~hike through Velebit mountains (2025)~~
+* ~~hike through Paklenica national park (2025)~~
+* ~~hike part of the Appalachian trail (2023)~~
+* hike the PCT (Pacific Crest Trail)
+* hike the Camino de Santiago
 
 ## Travel
 
