@@ -28,7 +28,7 @@ category: fun
 * build a house
 * own my dream car (sort of 2024)
 * ~~live abroad for 1 year (2023)~~
-* live so well-off I could afford all the camera lenses and (motor)bikes I want :-)
+* live so well-off I could afford all the camera lenses and (motor)bikes I want 
 
 ## Fitness & Health
 
